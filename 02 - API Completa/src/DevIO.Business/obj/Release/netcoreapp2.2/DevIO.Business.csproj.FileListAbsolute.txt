@@ -1,0 +1,8 @@
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Business\bin\Release\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Business\bin\Release\netcoreapp2.2\DevIO.Business.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Business\bin\Release\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.pdb

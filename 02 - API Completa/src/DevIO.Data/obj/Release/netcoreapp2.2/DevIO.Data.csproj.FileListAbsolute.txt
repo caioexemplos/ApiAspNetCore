@@ -1,0 +1,11 @@
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Data.deps.json
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Data.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Business.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.dll
+C:\Users\caio_\OneDrive\Área de Trabalho\Caio\Estudos\REST com ASP.NET Core WebAPI\02 - API Completa\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.pdb
