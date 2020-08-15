@@ -41,6 +41,11 @@ namespace DevIO.Api.V1.Controllers
         [HttpPost("nova-conta")]
         public async Task<ActionResult> Registrar(RegisterUserViewModel registerUser)
         {
+
+            try
+            {
+
+           
             if (!ModelState.IsValid) return CustomResponse(ModelState);
 
             var user = new IdentityUser
@@ -62,6 +67,13 @@ namespace DevIO.Api.V1.Controllers
             }
 
             return CustomResponse(registerUser);
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
         }
     
         [HttpPost("entrar")]

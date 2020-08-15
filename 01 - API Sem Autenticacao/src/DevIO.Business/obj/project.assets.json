@@ -840,7 +840,6 @@
         "netcoreapp2.2"
       ],
       "sources": {
-        "http://ci2/PackageManager/nuget/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
